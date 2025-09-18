@@ -3,14 +3,14 @@ Overview: With thousands of daily transactions, retail companies need actionable
  Problem Statement:
 
 1.Design a Python-based data analysis system that:
-
 ✅ Loads and processes real-world sales data using Pandas and NumPy
 ✅ Cleans missing values and corrects formatting for consistent analysis
-2.Analyzes key business metrics like:
 
+2.Analyzes key business metrics like:
 Most common payment methods
 Cities with the highest order counts
 Monthly growth in number of orders
+
 3.✅ Identifies product-level patterns (like overpriced underperformers)
 
 4.✅ Generates visualizations using Matplotlib & Seaborn
